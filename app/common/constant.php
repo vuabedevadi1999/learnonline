@@ -1,0 +1,28 @@
+<?php
+define('STATUS_USER',[0,1]);
+define('USER_ROLE',[0,1]);
+define('SUBJECT',[
+    'PHP','JAVA','PYTHON','RUBY ON RAILS','Scala','JAVASCRIPT','GOLANG','Clojure','TypeScript','Kotlin'
+]);
+define('CLASSNAME',[
+    'L01','L02','L03','L04','L05','L06','L07','L08','L09','L10'
+]);
+define('AVATAR_SUBJECT',[
+   'https://static.wixstatic.com/media/bd8fce_40c13ab9eb5544a884f6d720f6d53ba5~mv2.jpg/v1/fill/w_456,h_273,al_c,q_90,usm_0.66_1.00_0.01/bd8fce_40c13ab9eb5544a884f6d720f6d53ba5~mv2.webp',
+   'https://static.wixstatic.com/media/bd8fce_6b3513281b2f49988b1e4ba61c34b49d~mv2.jpg/v1/fill/w_456,h_303,al_c,q_90,usm_0.66_1.00_0.01/bd8fce_6b3513281b2f49988b1e4ba61c34b49d~mv2.webp',
+   'https://static.wixstatic.com/media/bd8fce_af5139dd76b647ed93cd0c709b7e5164~mv2.jpg/v1/fill/w_456,h_415,al_c,q_90,usm_0.66_1.00_0.01/bd8fce_af5139dd76b647ed93cd0c709b7e5164~mv2.webp',
+   'https://static.wixstatic.com/media/bd8fce_9432a15475974fa0b92f87850f63a1c6~mv2.jpg/v1/fill/w_456,h_304,al_c,q_90,usm_0.66_1.00_0.01/bd8fce_9432a15475974fa0b92f87850f63a1c6~mv2.webp',
+   'https://static.wixstatic.com/media/bd8fce_bcb7e90b004449e89705c2bf6e2cc77d~mv2.jpg/v1/fill/w_456,h_256,al_c,q_90,usm_0.66_1.00_0.01/bd8fce_bcb7e90b004449e89705c2bf6e2cc77d~mv2.webp',
+   'https://static.wixstatic.com/media/bd8fce_94ef1c0be31549e88350b314d3cfa4ac~mv2.jpg/v1/fill/w_456,h_255,al_c,q_90,usm_0.66_1.00_0.01/bd8fce_94ef1c0be31549e88350b314d3cfa4ac~mv2.webp',
+   'https://static.wixstatic.com/media/bd8fce_810688e79138413fa60b75ad84bfd679~mv2.png/v1/fill/w_456,h_238,al_c,q_90,usm_0.66_1.00_0.01/bd8fce_810688e79138413fa60b75ad84bfd679~mv2.webp',
+   'https://static.wixstatic.com/media/bd8fce_17a318a70adb416685525aefd8d24c53~mv2.png/v1/fill/w_456,h_456,al_c,q_90,usm_0.66_1.00_0.01/bd8fce_17a318a70adb416685525aefd8d24c53~mv2.webp',
+   'https://static.wixstatic.com/media/bd8fce_9cb7785745a14a30b5e2c4660dad8ea4~mv2.jpeg/v1/fill/w_456,h_228,al_c,q_90,usm_0.66_1.00_0.01/bd8fce_9cb7785745a14a30b5e2c4660dad8ea4~mv2.webp',
+    'https://static.wixstatic.com/media/bd8fce_dd5581467d11492e9b0879ac7d6bd5ef~mv2.jpeg/v1/fill/w_456,h_256,al_c,q_90,usm_0.66_1.00_0.01/bd8fce_dd5581467d11492e9b0879ac7d6bd5ef~mv2.webp'
+]);
+define('AVATARS',[
+    'https://www.w3schools.com/howto/img_avatar.png',
+    'https://www.w3schools.com/howto/img_avatar2.png',
+    'https://www.w3schools.com/w3images/avatar2.png',
+    'https://www.w3schools.com/w3images/avatar6.png',
+    'https://www.w3schools.com/w3images/avatar5.png'
+]);
